@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # Copyright (C) 2013-2015 Stéphane Péchard.
 #
 # This file is part of PhotoBackup.
